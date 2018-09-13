@@ -22,8 +22,9 @@
 - Stránka WebView je nyní login.php
 - Přidáno tlačítko na RELOAD
 - Přihlášení funguje, lze zhlédnout nástěnku
-## Verze 0.0.2.6
+## Verze 0.0.2.6x
 - Poslední oficiální vydání
+- Nový kód
 # Debug verze
 ## Verze 0.0.2.4zy - UrlTest
 - Zobrazování adresy URL pro ověření funkčnosti
